@@ -1,0 +1,15 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error:</h1>
+<h2 class="text-danger">The numbers you chose are not compatible!</h2>
+
+<h3>Make sure the numbers you choose are inline with the following rules:</h3>
+
+<p>
+    <strong>ModulusP:</strong> must be a Prime number.<br>
+    <strong>BaseG:</strong> must be a Primitive Root Modulo of ModulusP.<br>
+    <strong>PrivateKey A & B:</strong> must be less than ModulusP.<br>
+</p>

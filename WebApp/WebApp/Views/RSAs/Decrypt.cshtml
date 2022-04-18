@@ -1,0 +1,47 @@
+@model Domain.RSA
+
+@{
+    ViewData["Title"] = "Decrypt";
+}
+
+<h1>Decrypt</h1>
+
+<h4>RSA</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Decrypt">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="D" class="control-label"></label>
+                <input asp-for="D" class="form-control" />
+                <span asp-validation-for="D" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="N" class="control-label"></label>
+                <input asp-for="N" class="form-control" />
+                <span asp-validation-for="N" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="Ciphertext" class="control-label"></label>
+                <input asp-for="Ciphertext" class="form-control" />
+                <span asp-validation-for="Ciphertext" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Decrypt" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

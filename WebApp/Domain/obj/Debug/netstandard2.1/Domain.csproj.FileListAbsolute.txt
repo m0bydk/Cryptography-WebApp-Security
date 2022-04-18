@@ -1,0 +1,9 @@
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Domain\obj\Debug\netstandard2.1\Domain.pdb

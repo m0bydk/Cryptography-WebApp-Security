@@ -1,0 +1,13 @@
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\bin\Debug\netcoreapp3.1\Vigenere Cipher.exe
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\bin\Debug\netcoreapp3.1\Vigenere Cipher.deps.json
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\bin\Debug\netcoreapp3.1\Vigenere Cipher.runtimeconfig.json
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\bin\Debug\netcoreapp3.1\Vigenere Cipher.runtimeconfig.dev.json
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\bin\Debug\netcoreapp3.1\Vigenere Cipher.dll
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\bin\Debug\netcoreapp3.1\Vigenere Cipher.pdb
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\obj\Debug\netcoreapp3.1\Vigenere Cipher.csprojAssemblyReference.cache
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\obj\Debug\netcoreapp3.1\Vigenere Cipher.AssemblyInfoInputs.cache
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\obj\Debug\netcoreapp3.1\Vigenere Cipher.AssemblyInfo.cs
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\obj\Debug\netcoreapp3.1\Vigenere Cipher.csproj.CoreCompileInputs.cache
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\obj\Debug\netcoreapp3.1\Vigenere Cipher.dll
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\obj\Debug\netcoreapp3.1\Vigenere Cipher.pdb
+C:\Users\giorgi\Desktop\.Net and C#\Vigenere Cipher\Vigenere Cipher\obj\Debug\netcoreapp3.1\Vigenere Cipher.genruntimeconfig.cache

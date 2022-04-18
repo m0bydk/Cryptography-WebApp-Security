@@ -1,0 +1,9 @@
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\bin\Debug\netstandard2.1\Crypto.deps.json
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\bin\Debug\netstandard2.1\Crypto.dll
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\bin\Debug\netstandard2.1\Crypto.pdb
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\obj\Debug\netstandard2.1\Crypto.csprojAssemblyReference.cache
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\obj\Debug\netstandard2.1\Crypto.AssemblyInfoInputs.cache
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\obj\Debug\netstandard2.1\Crypto.AssemblyInfo.cs
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\obj\Debug\netstandard2.1\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\obj\Debug\netstandard2.1\Crypto.dll
+C:\Users\giorgi\Desktop\Web App Dev\HW04\Crypto\obj\Debug\netstandard2.1\Crypto.pdb

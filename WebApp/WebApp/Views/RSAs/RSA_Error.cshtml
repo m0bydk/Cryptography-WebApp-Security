@@ -1,0 +1,15 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error:</h1>
+<h2 class="text-danger">The numbers you chose are not compatible!</h2>
+
+<h3>Make sure the numbers you choose are inline with the following rules:</h3>
+
+<p>
+    <strong>P</strong> and <strong>Q:</strong> must be prime numbers.<br>
+    <strong>P</strong>*<strong>Q</strong> should not overflow ulong max value - @(ulong.MaxValue).<br>
+    Plaintext individual char number value shouldn't be more than <strong>P</strong>*<strong>Q</strong>.<br>
+</p>

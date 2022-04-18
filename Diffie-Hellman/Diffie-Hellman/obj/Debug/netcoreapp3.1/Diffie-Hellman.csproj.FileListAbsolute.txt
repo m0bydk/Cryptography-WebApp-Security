@@ -1,0 +1,13 @@
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.exe
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.deps.json
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.runtimeconfig.json
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.runtimeconfig.dev.json
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.dll
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\bin\Debug\netcoreapp3.1\Diffie-Hellman.pdb
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.csprojAssemblyReference.cache
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.AssemblyInfoInputs.cache
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.AssemblyInfo.cs
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.csproj.CoreCompileInputs.cache
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.dll
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.pdb
+C:\Users\giorgi\Desktop\Web App Dev\Diffie-Hellman\Diffie-Hellman\obj\Debug\netcoreapp3.1\Diffie-Hellman.genruntimeconfig.cache
